@@ -1,0 +1,48 @@
+### Module positions - created on Fri 21 Jun 2019 20:11:44 AEST ###
+### Printed by Pcbnew version kicad 5.1.2-f72e74a~84~ubuntu18.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                         PosX       PosY       Rot  Side
+C1        0.1u         C_0603_1608Metric           137.3125   -89.5350    0.0000  top
+C2        0.1u         C_0603_1608Metric           137.3125   -98.4250    0.0000  top
+C3        0.1u         C_0603_1608Metric           134.1605  -105.7910    0.0000  top
+C11       1n           C_0603_1608Metric           147.9550   -90.1700  270.0000  top
+C12       NP           C_0603_1608Metric           149.4790   -90.1700  270.0000  top
+C21       1n           C_0603_1608Metric           147.9550   -94.6150  270.0000  top
+C22       NP           C_0603_1608Metric           149.4790   -94.6150  270.0000  top
+C31       1n           C_0603_1608Metric           147.9550   -99.0600  270.0000  top
+C32       NP           C_0603_1608Metric           149.4790   -99.0600  270.0000  top
+C41       1n           C_0603_1608Metric           147.9550  -103.5050  270.0000  top
+C42       NP           C_0603_1608Metric           149.4790  -103.5050  270.0000  top
+D1        520/530/540  D_SOD-123                   128.9050  -106.0450  180.0000  top
+D2        GRN          LED_0603_1608Metric         128.9050  -101.4730    0.0000  top
+D11       RED          LED_0603_1608Metric         131.0640   -91.4400    0.0000  top
+D21       RED          LED_0603_1608Metric         131.0640   -93.9800    0.0000  top
+D31       RED          LED_0603_1608Metric         131.0640   -96.5200    0.0000  top
+D41       RED          LED_0603_1608Metric         131.0640   -99.0600    0.0000  top
+F1        100mA        Fuse_1206_3216Metric        128.9050  -103.5050  180.0000  top
+FB1       600R/1e8     L_0603_1608Metric           134.1605  -104.1400  180.0000  top
+FID1      Fiducial     Fiducial_1mm_Mask2mm        123.8250   -88.2650    0.0000  top
+FID2      Fiducial     Fiducial_1mm_Mask2mm        167.6400   -88.2650    0.0000  top
+FID3      Fiducial     Fiducial_1mm_Mask2mm        123.8250  -107.3150    0.0000  top
+FID4      Fiducial     Fiducial_1mm_Mask2mm        167.6400  -107.3150    0.0000  top
+R1        330          R_0603_1608Metric           132.0800  -101.4730    0.0000  top
+R11       330          R_0603_1608Metric           134.1905   -91.4400    0.0000  top
+R12       1k           R_0603_1608Metric           127.9675   -91.4400  180.0000  top
+R13       10k          R_0603_1608Metric           151.0030   -90.1700   90.0000  top
+R14       1k           R_0603_1608Metric           152.5270   -90.1700   90.0000  top
+R21       330          R_0603_1608Metric           134.1605   -93.9800    0.0000  top
+R22       1k           R_0603_1608Metric           127.9375   -93.9800  180.0000  top
+R23       10k          R_0603_1608Metric           151.0030   -94.6150   90.0000  top
+R24       1k           R_0603_1608Metric           152.5270   -94.6150   90.0000  top
+R31       330          R_0603_1608Metric           134.1905   -96.5200    0.0000  top
+R32       1k           R_0603_1608Metric           127.9675   -96.5200  180.0000  top
+R33       10k          R_0603_1608Metric           151.0030   -99.0600   90.0000  top
+R34       1k           R_0603_1608Metric           152.5270   -99.0600   90.0000  top
+R41       330          R_0603_1608Metric           134.1605   -99.0600    0.0000  top
+R42       1k           R_0603_1608Metric           127.9675   -99.0600  180.0000  top
+R43       10k          R_0603_1608Metric           151.0030  -103.5050   90.0000  top
+R44       1k           R_0603_1608Metric           152.5270  -103.5050   90.0000  top
+U1        74xx74       SOIC-14_3.9x8.7mm_P1.27mm   141.6050   -93.9800   90.0000  top
+U2        74xx14       SOIC-14_3.9x8.7mm_P1.27mm   141.6050  -102.8700   90.0000  top
+## End
