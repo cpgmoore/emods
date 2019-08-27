@@ -1,4 +1,4 @@
-update=Fri 23 Aug 2019 03:44:41 AEST
+update=Tue 27 Aug 2019 20:38:05 AEST
 version=1
 last_client=kicad
 [general]
@@ -26,7 +26,7 @@ ERC_TestSimilarLabels=1
 version=1
 PageLayoutDescrFile=
 LastNetListRead=CMOS-50R.net
-CopperLayerCount=4
+CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
 AllowBlindVias=0
@@ -67,19 +67,19 @@ OthersTextUpright=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
 Enabled=1
 [pcbnew/Layer.In1.Cu]
-Name=GND.Cu
-Type=1
-Enabled=1
+Name=In1.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In2.Cu]
-Name=PWR.Cu
-Type=1
-Enabled=1
+Name=In2.Cu
+Type=0
+Enabled=0
 [pcbnew/Layer.In3.Cu]
 Name=In3.Cu
 Type=0
