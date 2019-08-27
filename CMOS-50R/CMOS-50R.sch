@@ -1280,4 +1280,70 @@ Wire Wire Line
 Connection ~ 1600 1100
 Wire Wire Line
 	1600 1100 1950 1100
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5D69365C
+P 4850 6650
+F 0 "FID1" H 4935 6696 50  0000 L CNN
+F 1 "Fiducial" H 4935 6605 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 4850 6650 50  0001 C CNN
+F 3 "~" H 4850 6650 50  0001 C CNN
+	1    4850 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5D698780
+P 5450 6650
+F 0 "FID3" H 5535 6696 50  0000 L CNN
+F 1 "Fiducial" H 5535 6605 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 5450 6650 50  0001 C CNN
+F 3 "~" H 5450 6650 50  0001 C CNN
+	1    5450 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5D698B98
+P 4850 6900
+F 0 "FID2" H 4935 6946 50  0000 L CNN
+F 1 "Fiducial" H 4935 6855 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 4850 6900 50  0001 C CNN
+F 3 "~" H 4850 6900 50  0001 C CNN
+	1    4850 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID4
+U 1 1 5D699013
+P 5450 6900
+F 0 "FID4" H 5535 6946 50  0000 L CNN
+F 1 "Fiducial" H 5535 6855 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 5450 6900 50  0001 C CNN
+F 3 "~" H 5450 6900 50  0001 C CNN
+	1    5450 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 5D6999E2
+P 6050 6800
+F 0 "H1" H 6150 6849 50  0000 L CNN
+F 1 "MountingHole_Pad" H 6150 6758 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm_Pad_Via" H 6050 6800 50  0001 C CNN
+F 3 "~" H 6050 6800 50  0001 C CNN
+	1    6050 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR015
+U 1 1 5D6A7408
+P 6050 6900
+F 0 "#PWR015" H 6050 6650 50  0001 C CNN
+F 1 "GND" H 6055 6727 50  0000 C CNN
+F 2 "" H 6050 6900 50  0001 C CNN
+F 3 "" H 6050 6900 50  0001 C CNN
+	1    6050 6900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
