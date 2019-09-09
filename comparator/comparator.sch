@@ -6,10 +6,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "emods/comparator"
-Date "2019-08-13"
-Rev "13/08/19"
+Date "2019-09-09"
+Rev "09/09/19"
 Comp "cpgmoore"
-Comment1 "REV 13/08/19 - Work in progress"
+Comment1 "REV 09/09/19 - First Manufacture"
 Comment2 ""
 Comment3 ""
 Comment4 "github.com/cpgmoore/emods/comparator"
@@ -246,7 +246,7 @@ L Device:R_Small R31
 U 1 1 5D564D4C
 P 1350 950
 F 0 "R31" V 1250 950 50  0000 R CNN
-F 1 "270" V 1250 1150 50  0000 R CNN
+F 1 "330" V 1250 1150 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 1350 950 50  0001 C CNN
 F 3 "~" H 1350 950 50  0001 C CNN
 	1    1350 950 
@@ -257,7 +257,7 @@ L Device:R_Small R32
 U 1 1 5D56D8A0
 P 1350 1050
 F 0 "R32" V 1450 1050 50  0000 R CNN
-F 1 "270" V 1450 1250 50  0000 R CNN
+F 1 "330" V 1450 1250 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 1350 1050 50  0001 C CNN
 F 3 "~" H 1350 1050 50  0001 C CNN
 	1    1350 1050
@@ -1122,10 +1122,10 @@ F 3 "~" H 3550 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR?
+L power:GND #PWR0101
 U 1 1 5D661185
 P 3550 2750
-F 0 "#PWR?" H 3550 2500 50  0001 C CNN
+F 0 "#PWR0101" H 3550 2500 50  0001 C CNN
 F 1 "GND" H 3555 2577 50  0000 C CNN
 F 2 "" H 3550 2750 50  0001 C CNN
 F 3 "" H 3550 2750 50  0001 C CNN
